@@ -12,7 +12,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(
   <React.StrictMode>
-    <Appssss />
+    <App />
     // i am ceo
   </React.StrictMode>
 );
